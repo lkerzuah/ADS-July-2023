@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 I am tesing my Git bash commands.
 Thanks for making this process a success.
 Good luck!!!!
+=======
+Testing how to edit from github.com
+>>>>>>> 1aedea17ece1ac9f0193a5c2fb9cadedddd07cb5
+
+I am now understanding how gitbash update files directly to github.com.
